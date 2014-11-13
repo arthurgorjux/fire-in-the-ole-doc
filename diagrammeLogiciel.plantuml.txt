@@ -1,0 +1,20 @@
+@startuml
+title Etude du logiciel : Simulateur de gestions des incendies
+
+class Simulateur
+class Simulation
+class ArchiveSimulation
+class DonneesCartographiques
+class ModeleRobotPompier
+class Parametres
+
+Simulateur "1"--"*" Simulation : Produire
+Simulateur "1"--"*" ModeleRobotPompier
+Simulateur "1"--"*" DonneesCartographiques
+(Simulateur, Simulation) .. ArchiveSimulation
+Simulation --> ModeleRobotPompier : Impliquer
+Simulation --> DonnesCartographiques : Utiliser
+
+
+
+@enduml

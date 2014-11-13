@@ -1,0 +1,44 @@
+@startuml
+title Diagramme de classes métier Simulation
+
+class EquipeRobotsPompiers {
+
+}
+
+class RobotPompier {
+  +capaciteDeDeplacement
+  +puissance
+}
+
+class ManagerDeTaches {
+}
+
+class Drone {
+}
+
+class Incendie {
+  +position
+}
+
+class Terrain {
+}
+
+class Carte {
+}
+
+class Zone {
+  +difficulte
+}
+
+ManagerDeTaches --> EquipeRobotsPompiers : Pilote
+EquipeRobotsPompiers *- RobotPompier: Composition
+ManagerDeTaches --> Carte : Voir
+Drone --> Terrain : Cartographier
+RobotPompier --> Incendie : Eteindre
+Drone --> Carte : Produire
+Incendie --> Terrain : Affecte
+Carte --> Incendie : Localiser
+Carte --> RobotPompier : Localiser
+RobotPompier --> Terrain : SeDeplaceSur
+Terrain *- Zone
+@enduml
