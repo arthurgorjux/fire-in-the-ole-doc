@@ -1,11 +1,14 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1564" measuredH="728" mockupW="1522" mockupH="728">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1585" measuredH="728" mockupW="1543" mockupH="728">
   <controls>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::TitleWindow" x="42" y="0" w="1522" h="728" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TitleWindow" x="42" y="0" w="1543" h="728" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
         <text>Fire%20in%20the%20Ole</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="1300" y="54" w="256" h="651" measuredW="200" measuredH="152" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="1300" y="54" w="285" h="651" measuredW="200" measuredH="152" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Cartes%0ARobots%0AIncendies</text>
       </controlProperties>
@@ -15,22 +18,22 @@
         <text>Robot%20araign%E9e</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="135" w="117" h="-1" measuredW="115" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="146" w="117" h="-1" measuredW="115" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robot%20%E0%20chenilles</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="198" w="116" h="-1" measuredW="105" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="215" w="116" h="-1" measuredW="105" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robot%20Jet-Pack</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="261" w="119" h="-1" measuredW="105" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="280" w="119" h="-1" measuredW="105" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robot%20canadair</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="324" w="117" h="-1" measuredW="81" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1430" y="349" w="117" h="-1" measuredW="81" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robot%20Ga%EBl</text>
       </controlProperties>
@@ -45,27 +48,27 @@
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="124" w="54" h="48" measuredW="750" measuredH="421" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="135" w="54" h="48" measuredW="750" measuredH="421" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="187" w="54" h="48" measuredW="750" measuredH="421" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="204" w="54" h="48" measuredW="750" measuredH="421" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="250" w="54" h="48" measuredW="750" measuredH="421" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="269" w="54" h="48" measuredW="750" measuredH="421" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="313" w="54" h="48" measuredW="750" measuredH="421" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="1373" y="338" w="54" h="48" measuredW="750" measuredH="421" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextArea" x="1300" y="54" w="261" h="651" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextArea" x="1300" y="54" w="285" h="651" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
@@ -76,16 +79,16 @@
         <src>./assets/map.png</src>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::MenuBar" x="43" y="25" w="1521" h="29" measuredW="309" measuredH="29" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::MenuBar" x="43" y="25" w="1542" h="29" measuredW="309" measuredH="29" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Fichier%2COutils%2CEdition%2CAide%2C%20A%20propos...</text>
       </controlProperties>
     </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="592" w="178" h="113" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
     <control controlID="35" controlTypeID="com.balsamiq.mockups::MediaControls" x="77" y="636" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="17" locked="false" isInGroup="-1"/>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="80" y="607" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="77" y="607" w="-1" h="-1" measuredW="132" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Vitesse%20simulation</text>
+        <text>Vitesse%20simulation%20%3A%20x2</text>
       </controlProperties>
     </control>
     <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="309" y="463" w="54" h="48" measuredW="750" measuredH="421" zOrder="19" locked="false" isInGroup="-1">
@@ -113,77 +116,127 @@
         <src>./assets/robotChat.png</src>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="431" y="348" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="531" y="395" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Image" x="878" y="155" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Image" x="607" y="172" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Image" x="575" y="518" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="320" y="427" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Image" x="460" y="195" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/fire.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::ProgressBar" x="233" y="679" w="1053" h="20" measuredW="100" measuredH="20" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ProgressBar" x="233" y="679" w="1053" h="20" measuredW="100" measuredH="20" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <indeterminate>false</indeterminate>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="219" y="594" w="1081" h="111" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1"/>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="578" y="607" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="219" y="594" w="1081" h="111" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="578" y="607" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Indencies%20restants%20%3A%207</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="578" y="641" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="578" y="641" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robot%20d%E9ploy%E9s%20%3A%205</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="761" y="607" w="-1" h="-1" measuredW="122" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="761" y="607" w="-1" h="-1" measuredW="122" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Incendies%20%E9teints%20%3A%205</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="765" y="641" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="765" y="641" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Robots%20HS%20%3A%200</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="86" y="678" w="92" h="23" measuredW="92" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="86" y="678" w="92" h="23" measuredW="92" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%E9initialiser</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="920" y="265" w="207" h="195" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="935" y="276" w="54" h="48" measuredW="750" measuredH="421" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/robotChat.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="465" y="197" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320329_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Image" x="551" y="249" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320329_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Image" x="873" y="162" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320329_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Image" x="321" y="413" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320329_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="447" y="399" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320329_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Image" x="902" y="242" w="-1" h="-1" measuredW="22" measuredH="22" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1416320312_14_select.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="1011" y="291" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Robot%20Ga%EBl</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="974" y="327" w="-1" h="-1" measuredW="98" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>En%20d%E9placement</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="937" y="358" w="-1" h="-1" measuredW="149" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Capacit%E9%20D%E9placemet%20%3A%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Label" x="937" y="391" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Puissance%20%3A%20100</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="937" y="421" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%E9servoir%20%3A%20100%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="1547" y="83" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="1551" y="149" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="1551" y="218" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="1551" y="283" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="1551" y="352" w="-1" h="-1" measuredW="19" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1/6</text>
       </controlProperties>
     </control>
   </controls>
