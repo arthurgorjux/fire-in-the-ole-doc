@@ -4,17 +4,22 @@ title Etude du logiciel : Simulateur de gestions des incendies
 class Simulateur
 class Simulation
 class ArchiveSimulation
-class DonneesCartographiques
-class ModeleRobotPompier
-class Parametres
+class CarteDeTerrain
+class ModeleRobotPompier {
+  +algorythmePathFinding
+}
+class JeuDeParametres
+class Incendie
 
 Simulateur "1"--"*" Simulation : Produire
-Simulateur "1"--"*" ModeleRobotPompier
-Simulateur "1"--"*" DonneesCartographiques
+Simulateur "1"--"*" ModeleRobotPompier : Connaitre
+Simulateur "1"--"*" CarteDeTerrain : Disposer
 (Simulateur, Simulation) .. ArchiveSimulation
-Simulation --> ModeleRobotPompier : Impliquer
-Simulation --> DonnesCartographiques : Utiliser
+Simulation "*"-->"1..*" ModeleRobotPompier : Impliquer
+Simulation "*"-->"1" CarteDeTerrain : Utiliser
+Simulateur "1"--"*" JeuDeParametres : Enregistrer
+Simulation "*"-->"1" JeuDeParametres : Utiliser
 
-
+Incendie "*"-->"1" Simulation : Impliquer
 
 @enduml
