@@ -19,6 +19,7 @@ Simulation "*"-->"1..*" ModeleRobotPompier : Impliquer
 Simulation "*"-->"1" CarteDeTerrain : Utiliser
 Simulateur "1"--"*" JeuDeParametres : Enregistrer
 Simulation "*"-->"1" JeuDeParametres : Utiliser
+Simulateur "*"-->"*" ArchiveSimulation : Rejouer
 
 Incendie "*"-->"1" Simulation : Impliquer
 
